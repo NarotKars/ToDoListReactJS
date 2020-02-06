@@ -1,0 +1,114 @@
+.App {
+  text-align: center;
+}
+.wrapper
+{
+  position: relative;
+  height: 600px;
+  width: 600px;
+  background-color:#fcecd2;
+  margin-top: 5%;
+  margin-left: 31%;
+  border-radius: 23.5px;
+}
+.btn
+{
+  position: absolute;
+  right: 50px;
+  width: 125px;
+  border: none;
+  border-radius: 23.5px;
+  background: #ee9b9b;
+  color: white;
+  left: auto;
+  font-family: Snell Roundhand, cursive;
+  vertical-align: middle;
+  cursor: pointer;
+}
+.cbtn
+{
+  width: 125px;
+  border: none;
+  border-radius: 23.5px;
+  background: #ee9b9b;
+  color: white;
+  left: auto;
+  font-family: Snell Roundhand, cursive;
+  vertical-align: middle;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.ebtn
+{
+  position: absolute;
+  right: 195px;
+  width: 125px;
+  border: none;
+  border-radius: 23.5px;
+  background: #ee9b9b;
+  color: white;
+  left: auto;
+  font-family: Snell Roundhand, cursive;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.line-through
+{
+  text-decoration: line-through;
+  vertical-align: middle;
+  margin: 15px;
+  font-family: Snell Roundhand, cursive;
+  font-size: 1.2vw;
+  background-color:#f7f1e8;
+  border-radius: 23.5px;
+}
+#b
+{
+  background-color: #ee9b9b;
+}
+.extraordinary
+{
+  vertical-align: middle;
+  margin: 15px;
+  font-family: Snell Roundhand, cursive;
+  font-size: 1.2vw;
+  background-color:#f7f1e8;
+  border-radius: 23.5px;
+}
+
+h1
+{
+  color: #ee9b9b;
+  font-family: Snell Roundhand, cursive;
+}
+
+.compStyle
+{
+  margin: 15px;
+  font-family: Snell Roundhand, cursive;
+  font-size: 2vw;
+  background-color:#f7f1e8;
+  border-radius: 23.5px;
+  vertical-align: middle;
+  display: flex;
+  align-items: center;
+
+}
+
+.imgStyle
+{
+  margin-right: 20px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.editInput
+{
+  margin-left: 35px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
